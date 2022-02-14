@@ -1,0 +1,61 @@
+#div1{
+    background-color: black;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    top: 20px
+}
+
+#div2{
+    background-color: black;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 460px;
+    bottom: 400px;
+}
+
+#div3{
+    background-color: black;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 900px;
+    bottom: 820px;
+}
+
+h5, p{
+    color: blanchedalmond;
+}
+
+body{
+    background-color: rgba(141, 139, 137, 0.527);
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+#body1{
+              background-image: url('https://static01.nyt.com/images/2015/09/16/fashion/0916-IFW-Yeezy3/0916-IFW-Yeezy3-articleLarge.jpg?quality=75&auto=webp&disable=upscale');
+}
+
+#carouselExampleCaptions{
+    width: 800px; height: 500px;
+    left: 250px;
+}
